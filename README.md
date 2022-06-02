@@ -1,6 +1,7 @@
 **Genetic Algorithm (GA) [Acdemic Codes]**
 
 **Knapsack**
+
 **1. Inputs:**
 
 ```
