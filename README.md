@@ -110,7 +110,7 @@ Actual output :  [15, 24]
 Used Time 0.022340774536132812 s
 ```
 
-**Travelling Sales Man (TSP)*
+**Travelling Sales Man (TSP)**
 
 **Inputs**
 
