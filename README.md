@@ -172,7 +172,8 @@ Class :  cluster 1
 Class :  cluster 1
 Class :  claster 2
 Class :  cluster 1
-***
+
+**Perceptron**
 
 **Inputs**
 
